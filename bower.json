@@ -1,0 +1,16 @@
+{
+  "name": "mixin-compass",
+  "version": "0.1.0",
+  "homepage": "https://github.com/sym3tri/mixin-compass",
+  "authors": [
+    "Ed Rooth"
+  ],
+  "description": "just the compass mixins",
+  "keywords": [
+    "compass",
+    "mixin",
+    "sass",
+    "scss"
+  ],
+  "license": "MIT"
+}
